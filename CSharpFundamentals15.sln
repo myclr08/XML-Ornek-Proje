@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 OOP", "03 OOP", "{45CCD491-316B-4ACA-A04B-D98234997FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y28XML_JSON_SerializeDeserialize", "Y28XML_JSON_SerializeDeserialize\Y28XML_JSON_SerializeDeserialize.csproj", "{0E30A034-F1DD-4CB7-947D-01EB36E9564E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E30A034-F1DD-4CB7-947D-01EB36E9564E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E30A034-F1DD-4CB7-947D-01EB36E9564E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E30A034-F1DD-4CB7-947D-01EB36E9564E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E30A034-F1DD-4CB7-947D-01EB36E9564E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E30A034-F1DD-4CB7-947D-01EB36E9564E} = {45CCD491-316B-4ACA-A04B-D98234997FC6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31C2939-0B15-42DA-8D34-1D44FFDDE5E9}
+	EndGlobalSection
+EndGlobal
